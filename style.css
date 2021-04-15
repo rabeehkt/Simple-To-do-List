@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+input{
+    border:1px solid black;
+    width:200px;
+    height:25px;
+}
+button{
+    width:29px;
+    height:29px;
+}
+#newdiv-p{
+      font-size: 60px;
+      font-weight: bold;
+
+}
